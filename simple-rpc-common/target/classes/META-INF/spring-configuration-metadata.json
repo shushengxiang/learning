@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "simple.rpc.server",
+      "type": "com.simple.rpc.common.properties.SimpleRPCServerProperties",
+      "sourceType": "com.simple.rpc.common.properties.SimpleRPCServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "simple.rpc.server.leader-host",
+      "type": "java.lang.String",
+      "sourceType": "com.simple.rpc.common.properties.SimpleRPCServerProperties"
+    },
+    {
+      "name": "simple.rpc.server.name",
+      "type": "java.lang.String",
+      "sourceType": "com.simple.rpc.common.properties.SimpleRPCServerProperties"
+    },
+    {
+      "name": "simple.rpc.server.port",
+      "type": "java.lang.String",
+      "sourceType": "com.simple.rpc.common.properties.SimpleRPCServerProperties"
+    }
+  ],
+  "hints": []
+}

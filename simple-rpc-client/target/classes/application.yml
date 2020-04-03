@@ -1,0 +1,7 @@
+server:
+  port: 8082
+  name: server2
+simple:
+  rpc:
+    server:
+      leaderHost: http://localhost:8080/
